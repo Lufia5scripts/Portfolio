@@ -27,3 +27,7 @@ The dataset I constructed covers three ticket categories: adult standard, conces
 - The £16–£18 bracket is one of the most populated clusters, containing several clubs. Sheffield Sharks sit at the entry point of this band, making them one of the most affordable options within the league’s main concession pricing group.
 
 - At the upper end, London Lions (£21) are a clear outlier, significantly above the rest of the league. At the lower end, Cheshire Phoenix (£13) represent the cheapest concession ticket available. These outliers widen the distribution but do not affect the Sharks’ as they are still included in the central cluster.
+
+&nbsp;
+&nbsp;
+![SLB Standard Adult](visuals/slbstandardchild.png)
