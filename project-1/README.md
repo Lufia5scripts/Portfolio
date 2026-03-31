@@ -31,3 +31,12 @@ The dataset I constructed covers three ticket categories: adult standard, conces
 &nbsp;
 &nbsp;
 ![SLB Standard Adult](visuals/slbstandardchild.png)
+- The dataset contains 14 child standard ticket prices across the SLB. Sheffield Sharks sit at £16, placing them firmly toward the higher end of the pricing spectrum for younger fans. This price sits above both the median and the mean, positioning the Sharks as one of the more expensive clubs for child tickets. Unlike the adult and concession categories, the Sharks do not align with the modal price point here.
+
+- The mean (average) child ticket price across the league is approximately £14.63, meaning Sheffield Sharks are priced £1.37 above the league average. This suggests a more premium pricing strategy for younger attendees compared with many other clubs in the SLB.
+
+- Prices range from £10 (Leicester Riders) to £17.50 (Surrey 89ers Premium/Pod), giving a total spread of £7.50. The interquartile range (IQR), representing the middle 50% of prices, runs from £12 (Q1) to £13.50 (Q3). With a price of £16, Sheffield Sharks sit well above Q3, placing them in the upper‑quartile of the league’s child‑ticket pricing structure.
+
+- The £12–£13.50 range is the most populated cluster, containing the majority of clubs. Sheffield Sharks sit outside this main cluster, instead aligning with the smaller group of higher‑priced teams. This reinforces their position as a premium child ticket option within the SLB.
+
+- At the extremes, Surrey 89ers (£17.50) represent the highest child ticket price, while Leicester Riders (£10) offer the lowest. These outliers widen the distribution but do not alter the Sharks placement within the upper pricing tier.
