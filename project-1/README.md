@@ -14,4 +14,6 @@ Documentation for my first data analytics project.
 
 - At the upper end, London Lions (£27.50) are a clear outlier, significantly above the rest of the league. At the lower end, Cheshire Phoenix (£17) represent the cheapest entry point. These outliers stretch the distribution but do not affect the Sharks’ position within the center.
 
+  
+
 ![SLB Standard Adult](visuals/slbstandardconcession.png)
