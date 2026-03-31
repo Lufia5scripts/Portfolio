@@ -1,10 +1,9 @@
-# Project 1
-Documentation for my first data analytics project.
-
+# Sheffield Sharks Standard Ticket Anlaysis
+An in‑depth analysis of Sheffield Sharks’ standard ticket prices, using descriptive statistics and league comparisons to highlight the club’s position within the Super League Basketball market.
 
 ![SLB Standard Adult](visuals/slbstandardadult.png)
 
-- The dataset contains 15 adult standard ticket prices across the British Basketball League. Sheffield Sharks sit at £20, which is the median price, meaning exactly half of the league is cheaper and half is more expensive. This also places the Sharks within the mode, as £20 is the most frequently occurring price in the league, shared with Leicester Riders and Newcastle Eagles.
+- The dataset contains 15 adult standard ticket prices across the Super League Basketball. Sheffield Sharks sit at £20, which is the median price, meaning exactly half of the league is cheaper and half is more expensive. This also places the Sharks within the mode, as £20 is the most frequently occurring price in the league, shared with Leicester Riders and Newcastle Eagles.
 
 - The mean (average) ticket price across all clubs is £21.90, placing Sheffield Sharks £1.90 below the league average. From a value for money standpoint, this positions the Sharks as a competitively priced club offering below‑average cost for a typical BBL game.
 
@@ -17,7 +16,7 @@ Documentation for my first data analytics project.
 &nbsp;
 &nbsp;
 ![SLB Standard Adult](visuals/slbstandardconcession.png)
-- The dataset contains 13 concession standard ticket prices across the British Basketball League. Sheffield Sharks sit at £16, which places them below both the median and the mean, making them one of the better value options in the league for concession fans. They also share the mode, as £16 is the most frequently occurring concession price, matched by Leicester Riders.
+- The dataset contains 13 concession standard ticket prices across the Super League Basketball. Sheffield Sharks sit at £16, which places them below both the median and the mean, making them one of the better value options in the league for concession fans. They also share the mode, as £16 is the most frequently occurring concession price, matched by Leicester Riders.
 
 - The mean (average) concession ticket price across all clubs is approximately £17.42, placing Sheffield Sharks around £1.42 below the league average. From a value for money standpoint, this positions the Sharks as a competitively priced club offering a cheaper than average entry point for younger fans, students, and other concession groups.
 
