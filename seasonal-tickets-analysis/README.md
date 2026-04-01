@@ -68,3 +68,27 @@ The £25 installment option is a deliberate strategic choice rather than an outl
 
 ![Season ticket prices](visuals/slbseasonalchild.png)
 
+- Overall Pricing Landscape
+Child season ticket pricing across the Super League Basketball shows the widest variation of all categories, reflecting how differently clubs approach youth engagement. Some teams clearly prioritise affordability, offering very low entry points, while others maintain premium structures that mirror adult seating. The result is a landscape where family‑friendly pricing and high‑value tiers coexist, revealing contrasting philosophies on how to attract and retain younger supporters.
+
+- Unique Installment Option (£11.50)
+The Leicester Riders’ £11.50 monthly plan is the only recurring‑payment model available for children. Instead of requiring a single upfront cost, it spreads the commitment across the season, making it easier for families to manage. No other club uses this structure, giving the Riders a distinctive position in the youth market. For the Sheffield Sharks, adopting a similar model could open the door to younger fans and reduce the financial barrier for families without requiring a major price overhaul.
+
+- Price Distribution (Full Dataset)
+Child prices range from £11.50 to £285, creating a total spread of £273 — the largest across all categories. Removing the installment plan, full‑season prices run from £50 to £285, a £235 gap. This wide distribution shows that some clubs treat child tickets as an accessible entry point, while others maintain premium pricing even for younger age groups. The contrast between the lowest and highest full‑season prices is especially pronounced, highlighting the league’s diverse approach to youth accessibility.
+
+- Sheffield Sharks Positioning
+The Sheffield Sharks are the only club without a child season ticket option. This absence stands out in a league where most teams offer multiple youth tiers. While the Sharks are well‑positioned in adult and concession pricing, the lack of a child category limits family engagement and reduces opportunities to build long‑term supporter loyalty. Introducing a youth tier would bring the club in line with league norms and strengthen its connection with younger audiences.
+
+- Pricing Clusters
+A clear entry‑level cluster forms between £50 and £120, where the most affordable youth options sit. This includes London Lions (£50), Bristol Flyers U12 (£65), Leicester Riders Early Bird (£100), Leicester Riders Standard (£110), and Bristol Flyers U19 (£120). A middle group appears between £160 and £172.50, represented by Cheshire Phoenix (£160), Caledonia Gold (£165), and Caledonia Platinum (£172.50). At the upper end, Surrey Scorchers dominate with Standard (£205), Premium (£285), and Pod (£285), alongside Newcastle Eagles (£240). This creates a sharp divide between budget‑friendly youth access and high‑value premium seating for families willing to invest more.
+
+- A Notable Feature: Bristol Flyers’ Tiered Age Bands
+The Bristol Flyers stand out for a different reason: they use three distinct youth age bands — U12 (£65), U19 (£120), and U22 (£231.25). This tiered structure is far more granular than the single “child” category used by most clubs. The U22 price is also one of the few non‑rounded figures in the dataset, suggesting a formula‑based or percentage‑driven approach rather than manually set round numbers. In contrast, the Sheffield Sharks offer no child category at all, making the Flyers’ detailed youth structure even more striking within the league context.
+
+- What This Shows About the League
+The child pricing landscape is the most fragmented of all categories. Some clubs clearly prioritise affordability and early fan development, while others maintain premium structures even for younger supporters. Installment plans remain rare but demonstrate the potential for more flexible, family‑oriented pricing. The Sharks’ absence from this category highlights a gap in their offering, especially given the strong presence of youth tiers across the league.
+
+- Summary Insight
+The £11.50 installment model demonstrates how flexible pricing can lower barriers for families and encourage early engagement. For the Sharks, introducing a child category — potentially with a modern payment structure — would align them with league standards and strengthen long‑term supporter growth. The current child pricing landscape shows the widest variation of all categories, revealing significant differences in how clubs balance youth accessibility with premium seating value.
+
