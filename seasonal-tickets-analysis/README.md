@@ -36,7 +36,9 @@ The £34 installment option is not a statistical outlier to be dismissed; it is 
 
 <br>
 <br>
+
 ![Season ticket prices](visuals/slbseasonalconcession.png)
+
 Overall Pricing Landscape
 Concession season ticket pricing across the Super League Basketball shows a wide spectrum of approaches, with clubs balancing affordability against the value of their seating and the needs of concession‑eligible supporters. The range spans from highly accessible installment‑based options to more premium‑priced packages, reflecting each club’s interpretation of what concession pricing should achieve. Compared to adult tickets, the emphasis here leans more heavily toward inclusivity and reducing financial barriers for students, seniors, and other discounted groups.
 
