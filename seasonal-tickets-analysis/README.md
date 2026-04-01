@@ -4,10 +4,6 @@ To conduct this analysis, I compiled season ticket pricing data across all Super
 The dataset used in this report captures season ticket prices across three groups: adults, concessions, and children. The aim is not simply to list prices, but to contextualise where the Sheffield Sharks sit within the broader market. By examining pricing clusters, loyalty incentives, and the spread between entry‑level and premium packages, this analysis highlights how the Sharks position themselves relative to budget clubs, mid‑tier competitors, and high‑end premium teams. It also identifies unique pricing strategies within the league, such as the Riders’ monthly installment model, and evaluates how such innovations could inform future pricing decisions for the Sharks.
 <br>
 <br>
-
-
-
-
 ![Season ticket prices](visuals/slbseasonaladult.png)
 
 
@@ -37,3 +33,25 @@ Pricing across the league is tiered rather than uniform. Installment plans are r
 
 - Summary Insight
 The £34 installment option is not a statistical outlier to be dismissed; it is a strategic innovation. It highlights a pricing model the Sharks could adopt to increase accessibility and season ticket uptake. Meanwhile, the Sharks’ actual prices place them firmly within the league’s competitive mid‑range, offering solid value without undercutting the market.
+
+<br>
+<br>
+![Season ticket prices](visuals/slbseasonalconcession.png)
+
+- Overall Pricing Landscape
+Concession season ticket pricing across the Super League Basketball shows a wide spectrum of approaches, with clubs balancing affordability against the value of their seating and the needs of concession‑eligible supporters. The range spans from highly accessible installment‑based options to more premium‑priced packages, reflecting each club’s interpretation of what concession pricing should achieve. Compared to adult tickets, the emphasis here leans more heavily toward inclusivity and reducing financial barriers for students, seniors, and other discounted groups.
+
+- Unique Installment Option (£25)
+The Leicester Riders’ £25 monthly installment stands out as the only subscription‑style concession option in the league. Rather than representing a full season cost, it spreads payments across the year, making season tickets more manageable for supporters with tighter budgets. No other club adopts this model, giving the Riders a distinctive position in the market. For the Sheffield Sharks, a similar approach could broaden accessibility, appeal to younger fans, and modernise the club’s pricing strategy. While the £25 figure cannot be directly compared to full‑season prices, it highlights a meaningful shift toward flexible, low‑commitment ticketing.
+
+- Price Distribution (Full Dataset)
+Concession prices range from £25 to £280, creating a total spread of £255. This range is widened by the installment plan, which sits far below traditional season ticket prices. When focusing solely on full‑season tickets, the range tightens significantly: the lowest price is £180 and the highest is £280, giving a spread of £100. This narrower distribution suggests that clubs aim to keep concession pricing relatively consistent and accessible, even when offering premium seating options.
+
+- Sheffield Sharks Positioning
+The Sheffield Sharks offer two concession prices: £180 for returning season ticket holders and £262 for new buyers. The loyalty discount places the Sharks among the more affordable options for existing supporters, reinforcing a commitment to retaining long‑term fans. The £262 new‑buyer price positions the club in the upper mid‑range of the league, competitive with teams offering enhanced seating or premium experiences. This dual‑tier structure allows the Sharks to remain accessible while still aligning with broader market expectations.
+
+- Pricing Clusters
+A clear mid‑tier cluster emerges between £200 and £264, forming the central pricing zone of the concession market. This group includes Cheshire Phoenix (£200), Leicester Riders – Early Bird (£215), Bristol Flyers (£231.25), Leicester Riders – Standard (£235), Sheffield Sharks – New (£262), and Caledonia Gladiators – Gold (£264). The Sharks sit firmly within this cluster, indicating strong alignment with league norms. Above this range, Caledonia Gladiators – Platinum (£278) and Newcastle Eagles (£280) represent the premium end of concession pricing. Surrey Scorchers’ absence of a concession category highlights the inconsistency in how clubs define and implement discounted ticketing.
+
+- What This Shows About the League
+The concession market is structured but varied, with clubs adopting different philosophies on affordability and value. Installment plans remain rare but demonstrate the potential for more flexible pricing models. The Sharks’ positioning reflects a balanced approach: competitive for returning supporters and aligned with the league’s mid‑to‑upper range for new buyers. The league as a whole shows a strong mid‑tier cluster with a smaller premium segment, while the Riders continue to differentiate themselves through subscription‑based pricing.
