@@ -2,12 +2,13 @@
 To conduct this analysis, I compiled season ticket pricing data across all Super League Basketball clubs, covering adult, concession, and child categories. This required reviewing official ticketing pages, comparing multiple seating tiers, and verifying ambiguous or inconsistent information where necessary. Season ticket structures vary far more than standard matchday pricing, with clubs offering loyalty discounts, premium seating packages, family‑oriented pricing, and in one notable case an installment‑based payment option. These variations required careful interpretation to ensure that each club’s offering was compared on fair and consistent terms.
 
 The dataset used in this report captures season ticket prices across three groups: adults, concessions, and children. The aim is not simply to list prices, but to contextualise where the Sheffield Sharks sit within the broader market. By examining pricing clusters, loyalty incentives, and the spread between entry‑level and premium packages, this analysis highlights how the Sharks position themselves relative to budget clubs, mid‑tier competitors, and high‑end premium teams. It also identifies unique pricing strategies within the league, such as the Riders’ monthly installment model, and evaluates how such innovations could inform future pricing decisions for the Sharks.
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 ![Season ticket prices](visuals/slbseasonaladult.png)
