@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Season Tickets Graph Prices</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="PROJECT 4 CSS.css">
+</head>
+
+<body>
+
+  <nav>
+    <div class="nav-container">
+      <div class="logo">Ticket Analytics</div>
+      <ul class="nav-links">
+        <li class="dropdown">
+          <button class="dropdown-toggle">Charts ▾</button>
+          <div class="dropdown-menu">
+            <a href="#adult">Adult Tickets</a>
+            <a href="#concession">Concession Tickets</a>
+            <a href="#child">Child Tickets</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <header>
+    <h1>Season Ticket Prices</h1>
+<p>Comparative analysis of season ticket pricing across the SLB Basketball league teams</p>
+  </header>
+
+  <div class="container">
+    <section id="adult">
+      <h2>Adult Season Ticket Prices</h2>
+      <div class="chart-container">
+        <canvas id="ticketChart"></canvas>
+      </div>
+    </section>
+
+    <section id="concession">
+      <h2>Concession Season Ticket Prices</h2>
+      <div class="chart-container">
+        <canvas id="ticketChart2"></canvas>
+      </div>
+    </section>
+
+    <section id="child">
+      <h2>Child Season Ticket Prices</h2>
+      <div class="chart-container">
+        <canvas id="ticketChart3"></canvas>
+      </div>
+    </section>
+  </div>
+
+
+  <footer>
+    <p>© 2025 Ticket Price Analytics</p>
+  </footer>
+
+  <script src="PROJECT 4 JS.js"></script>
+</body>
+
+</html>

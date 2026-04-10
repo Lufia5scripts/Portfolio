@@ -1,0 +1,47 @@
+<!-- HTML FILE (index.html) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Maths Progress Charts</title>
+
+  <!-- CSS FILE -->
+  <link rel="stylesheet" href="maths.css" />
+
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+ 
+  <script src="mathsjs.js" defer></script>
+</head>
+
+<body>
+  <nav class="dropdown-nav">
+  <div class="dropdown">
+    <button class="dropbtn">Charts ▼</button>
+    <div class="dropdown-content">
+      <a href="#ticketChart">Maths Paper 1</a>
+      <a href="#ticketChart2">Maths Paper 2</a>
+      <a href="#ticketChart3">Maths Paper 3</a>
+    </div>
+  </div>
+</nav>
+
+
+  <h1>Maths Progress - Line Charts</h1>
+
+  <div class="chart-container">
+    <canvas id="ticketChart"></canvas>
+  </div>
+
+  <div class="chart-container">
+    <canvas id="ticketChart2"></canvas>
+  </div>
+
+  <div class="chart-container">
+    <canvas id="ticketChart3"></canvas>
+  </div>
+
+</body>
+</html>
